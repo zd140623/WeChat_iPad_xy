@@ -14,4 +14,4 @@
 
 代码特性：无任何第三方dll引用/纯代码/无毒无后门/不偷号
 
-测试API:http://47.108.200.95:8181/swagger/index.html
+测试API:http://47.241.90.7:81/swagger/index.html
